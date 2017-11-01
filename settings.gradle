@@ -1,0 +1,1 @@
+include ':app', ':plugindemo', ':plugindemo2', ':DroidPlugin', ':host', ':plugin', ':scrollerdemo', ':misport', ':servicedemo', ':sqldemo', ':viewpagedemo'

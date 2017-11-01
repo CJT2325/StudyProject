@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DroidPlugin/DroidPlugin.iml" filepath="$PROJECT_DIR$/DroidPlugin/DroidPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudyProject.iml" filepath="$PROJECT_DIR$/StudyProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/host/host.iml" filepath="$PROJECT_DIR$/host/host.iml" />
+      <module fileurl="file://$PROJECT_DIR$/misport/misport.iml" filepath="$PROJECT_DIR$/misport/misport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugin/plugin.iml" filepath="$PROJECT_DIR$/plugin/plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugindemo/plugindemo.iml" filepath="$PROJECT_DIR$/plugindemo/plugindemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugindemo2/plugindemo2.iml" filepath="$PROJECT_DIR$/plugindemo2/plugindemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scrollerdemo/scrollerdemo.iml" filepath="$PROJECT_DIR$/scrollerdemo/scrollerdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicedemo/servicedemo.iml" filepath="$PROJECT_DIR$/servicedemo/servicedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqldemo/sqldemo.iml" filepath="$PROJECT_DIR$/sqldemo/sqldemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpagedemo/viewpagedemo.iml" filepath="$PROJECT_DIR$/viewpagedemo/viewpagedemo.iml" />
+    </modules>
+  </component>
+</project>

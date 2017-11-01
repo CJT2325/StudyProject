@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_love"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.cjt2325.studyproject.LoveActivity">
+    <com.king.view.flutteringlayout.FlutteringLayout
+        android:id="@+id/flutteringLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="10dp"
+        app:duration="3000"
+        app:enter_duration="300"
+        app:scale="1.0"/>
+    <Button
+        android:id="@+id/btn"
+        android:text="1111"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</RelativeLayout>

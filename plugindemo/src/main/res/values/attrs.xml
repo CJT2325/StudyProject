@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="horn_gravity" format="string"/>
+    <attr name="radius" format="integer"/>
+    <declare-styleable name="CustomImageView">
+        <attr name="horn_gravity"/>
+        <attr name="radius"/>
+    </declare-styleable>
+</resources>
